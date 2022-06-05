@@ -1,0 +1,5 @@
+{
+  "lighthouseFlags": {
+    "output": ["html", "csv"]
+  }
+}
